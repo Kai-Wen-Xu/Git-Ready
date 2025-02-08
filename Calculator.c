@@ -32,5 +32,6 @@ int main()
 		Ans = fNumber1 - fNumber2;
 	}
 	printf("Answer: %.2f", Ans);
-return 0;
+	
+	return 0;
 }
