@@ -11,4 +11,5 @@ int main()
 	printf("Enter operator (+, -, *, /):");
 	scanf("%c", &opt);
 	
+	printf("Answer: %f", Ans);
 }
